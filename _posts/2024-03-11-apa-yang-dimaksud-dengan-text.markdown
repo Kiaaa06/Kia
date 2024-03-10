@@ -6,7 +6,6 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: software.jpg # Add image post (optional)
 tags: [Productivity, Learn] # add tag
 ---
-
 #### A. Apa yang dimaksud dengan TEXT.
 
 TEXT adalah Tulisan atau karakter yang digunakan untuk pertukaran Informasi Pemahaman tentang Teks
