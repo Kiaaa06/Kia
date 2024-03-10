@@ -11,7 +11,7 @@ tags: [Productivity, TEXT] # add tag
 
 TEXT adalah Tulisan atau karakter yang digunakan untuk pertukaran Informasi Pemahaman tentang Teks
 
----
+
 
 #### B. Unsur TEXT
 
@@ -21,7 +21,7 @@ TEXT adalah Tulisan atau karakter yang digunakan untuk pertukaran Informasi Pema
 
 ![OIP](https://github.com/galung1308/GLG-Solution/assets/145516268/2f6908f6-3f3f-474d-898b-da25aeef5b51)
 
----
+
 
 #### FONT/JENIS TEXT
 -	**Berikut Contoh FONT/JENIS TEXT**
@@ -30,7 +30,7 @@ TEXT adalah Tulisan atau karakter yang digunakan untuk pertukaran Informasi Pema
   
 ![2](https://github.com/galung1308/GLG-Solution/assets/145516268/39059176-a36c-4321-bcaa-3b659d1c7f66)
 
----
+
 
 
 #### WARNA
@@ -41,7 +41,7 @@ TEXT adalah Tulisan atau karakter yang digunakan untuk pertukaran Informasi Pema
 ![Warna Tertier Kombinasi warna](https://github.com/galung1308/GLG-Solution/assets/145516268/f234bf7b-6a47-4076-8574-782e2179fc91)
 
 
----
+
 
 #### SIZE/UKURAN
 -	**Berikut Contoh SIZE/UKURAN**
@@ -50,7 +50,7 @@ TEXT adalah Tulisan atau karakter yang digunakan untuk pertukaran Informasi Pema
 
 ![A93cx](https://github.com/galung1308/GLG-Solution/assets/145516268/34289464-4467-4b04-88e8-e450d186af83)
 
----
+
 
 
 #### TYPE TEXT
