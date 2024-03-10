@@ -3,7 +3,7 @@ layout: post
 title: Apa Yang Dimaksud Dengan Teks
 date: 2024-03-10 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: how-to-start.jpg # Add image post (optional)
+img: software.jpg # Add image post (optional)
 tags: [Learn] # add tag
 ---
 #### A. Apa yang dimaksud dengan TEXT.
@@ -56,6 +56,5 @@ TEXT adalah Tulisan atau karakter yang digunakan untuk pertukaran Informasi Pema
 -	**Berikut Contoh TYPE TEXT**
 
 
----
 
 ![5bcb99f05d6c60011fa0f41a9eec40bb](https://github.com/galung1308/GLG-Solution/assets/145516268/1133efdc-8165-4058-8298-d37d66ab2885)
