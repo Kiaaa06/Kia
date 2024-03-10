@@ -1,37 +1,39 @@
 ---
 layout: post
-title: Apa 
-date: 2017-09-12 00:00:00 +0300
+title: Apa yang dimaksud dengan TEXT
+date: 2024-03-11 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: software.jpg # Add image post (optional)
-tags: [Productivity, Software] # add tag
+tags: [Productivity, TEXT] # add tag
 ---
 
 #### A. Apa yang dimaksud dengan TEXT.
 
 TEXT adalah Tulisan atau karakter yang digunakan untuk pertukaran Informasi Pemahaman tentang Teks
 
+---
+
 #### B. Unsur TEXT
 
-1. KODE ASCII
+#### KODE ASCII
 -	**Berikut Contoh KODE ASCII**
 
 
 ![OIP](https://github.com/galung1308/GLG-Solution/assets/145516268/2f6908f6-3f3f-474d-898b-da25aeef5b51)
 
+---
 
-
-2. FONT/JENIS TEXT
+#### FONT/JENIS TEXT
 -	**Berikut Contoh FONT/JENIS TEXT**
 
 
   
 ![2](https://github.com/galung1308/GLG-Solution/assets/145516268/39059176-a36c-4321-bcaa-3b659d1c7f66)
 
+---
 
 
-
-3. WARNA
+#### WARNA
 -	**Berikut Contoh KODE WARNA**
 
 
@@ -39,19 +41,19 @@ TEXT adalah Tulisan atau karakter yang digunakan untuk pertukaran Informasi Pema
 ![Warna Tertier Kombinasi warna](https://github.com/galung1308/GLG-Solution/assets/145516268/f234bf7b-6a47-4076-8574-782e2179fc91)
 
 
+---
 
-
-4. SIZE/UKURAN
+#### SIZE/UKURAN
 -	**Berikut Contoh SIZE/UKURAN**
 
 
 
 ![A93cx](https://github.com/galung1308/GLG-Solution/assets/145516268/34289464-4467-4b04-88e8-e450d186af83)
 
+---
 
 
-
-5. TYPE TEXT
+#### TYPE TEXT
 -	**Berikut Contoh TYPE TEXT**
 
 
